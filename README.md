@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front and Back End Coding Projects
 - 🌱 I’m currently learning Front End Tools like React
 - 💞️ I’m looking to collaborate on Coding Projects
-- 📫 How to reach me boonyongleo@gmail.com
+- 📫 How to reach me leodev2003@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
